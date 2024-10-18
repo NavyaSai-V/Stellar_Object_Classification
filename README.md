@@ -38,21 +38,25 @@ The following machine learning models were implemented and compared:
 
     Copy code
 
-    `git clone <repository-link>
-    cd stellar-object-detection`
+    ``` bash
+    git clone <repository-link>
+    cd stellar-object-detection
+    ```
 
 2.  Install the required dependencies:
 
     bash
 
     Copy code
+``` bash
+    pip install -r requirements.txt
+```
 
-    `pip install -r requirements.txt`
 
 3.  Install **Streamlit** (if not already installed):
 
     Copy code
-    
+
 ``` bash
 pip install streamlit
 
@@ -142,15 +146,15 @@ The **Streamlit** app provides an interactive interface to make predictions base
 
 The table below compares the performance of the models:
 
-| Model | Accuracy | Precision | Recall |
-| --- | --- | --- | --- |
-| Decision Tree | 87% | 86% | 85% |
-| Random Forest | 93% | 92% | 91% |
-| KNN | 85% | 84% | 83% |
-| SVM | 89% | 88% | 87% |
-| Gradient Boosting | 95% | 94% | 93% |
-| **AdaBoost** | 94% | 93% | 92% |
-| **XGBoost** | **97%** | **96%** | **95%** |
+| Model | Accuracy | Precision | Recall |F1 Score |
+| --- | --- | --- | --- | --- |
+| Decision Tree | 95% | 95% | 95% | 95% |
+| Random Forest | 95% | 95% | 95% | 95% |
+| KNN | 89% | 89% | 89% | 89% |
+| SVM | 93% | 93% | 93% | 92% |
+| **Gradient Boosting** | 96% | 96% | 96% | 96% |
+| AdaBoost | 85% | 80% | 85% | 82% |
+| **XGBoost** | **97%** | **97%** | **97%** | **97%** |
 
 * * * * *
 
@@ -169,8 +173,8 @@ The table below compares the performance of the models:
 
 **Navya Sai**
 
--   [GitHub](https://github.com/)
--   [LinkedIn](https://www.linkedin.com/)
+-   [GitHub](https://github.com/NavyaSai-V/)
+-   [LinkedIn](https://www.linkedin.com/in/navya-sai-arcot/)
 
 * * * * *
 
@@ -196,5 +200,3 @@ Thanks to the **scientific community** for the dataset and inspiration. Special 
 * * * * *
 
 Let me know if you want any adjustments! 😊
-
-4o
