@@ -38,10 +38,11 @@ The following machine learning models were implemented and compared:
 
     Copy code
 
-    ``` bash
-    git clone <repository-link>
-    cd stellar-object-detection
-    ```
+  
+```bash
+git clone https://github.com/NavyaSai-V/Stellar_Object_Classification/ 
+cd stellar-object-detection    # Navigate into the project directory
+```
 
 2.  Install the required dependencies:
 
