@@ -122,7 +122,7 @@ The **Streamlit** app provides an interactive interface to make predictions base
 
 ```bash
     streamlit run app.py
-    ```
+```
 
 3.  Open your browser and go to `http://localhost:8501`.
 
