@@ -66,7 +66,8 @@ plaintext
 
 Copy code
 
-`stellar-object-detection/
+``` bash
+stellar-object-detection/
 │
 ├── data/                          # Dataset and preprocessed files \n
 ├── requirements.txt               # Required Python libraries
@@ -76,7 +77,8 @@ Copy code
 ├── Stellar Dashboard.pbix         # PowerBI Dashboard
 ├── Docs_Files/                    # Instuction and Description Documents
 ├── Capstone PPT                   # Power Point Presentation of Project
-└── Stellar_classification.py      # Main Streamlit application`
+└── Stellar_classification.py      # Main Streamlit application
+```
 * * * * *
 
 🔍 Exploratory Data Analysis (EDA)
