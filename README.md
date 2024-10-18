@@ -68,13 +68,15 @@ Copy code
 
 `stellar-object-detection/
 │
-├── data/                     # Dataset and preprocessed files
-├── models/                   # Saved models and metrics
-├── app/                      # Streamlit app files
-├── notebooks/                # Jupyter Notebooks for analysis
-├── requirements.txt          # Required Python libraries
-├── README.md                 # Project Documentation
-└── app.py                    # Main Streamlit application`
+├── data/                          # Dataset and preprocessed files
+├── requirements.txt               # Required Python libraries
+├── README.md                      # Project Documentation
+├── Stellar_object_detection.ipynb # Project Notebook
+├── XGBoost.joblib                 # Model joblib file
+├── Stellar Dashboard.pbix         # PowerBI Dashboard
+├── Docs_Files/                    # Instuction and Description Documents
+├── Capstone PPT                   # Power Point Presentation of Project
+└── Stellar_classification.py      # Main Streamlit application`
 
 * * * * *
 
