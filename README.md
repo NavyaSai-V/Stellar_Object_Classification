@@ -157,6 +157,10 @@ The table below compares the performance of the models:
 
 * * * * *
 
+📈 Power BI Dashboard
+---------------
+Using the Evaluation metrics for all the models I have created a Dashboard
+
 📢 Future Scope
 ---------------
 
