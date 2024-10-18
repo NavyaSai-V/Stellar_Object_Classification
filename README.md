@@ -65,10 +65,10 @@ The following machine learning models were implemented and compared:
 plaintext
 
 Copy code
-bash
+
 `stellar-object-detection/
 │
-├── data/                          # Dataset and preprocessed files
+├── data/                          # Dataset and preprocessed files \n
 ├── requirements.txt               # Required Python libraries
 ├── README.md                      # Project Documentation
 ├── Stellar_object_detection.ipynb # Project Notebook
