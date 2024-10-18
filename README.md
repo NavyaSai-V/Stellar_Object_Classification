@@ -105,8 +105,8 @@ Each model was trained, and their performance was evaluated using the following 
 XGBoost performed the best, achieving:
 
 -   **Accuracy**: 97%
--   **Precision**: 96%
--   **Recall**: 95%
+-   **Precision**: 97%
+-   **Recall**: 97%
 
 * * * * *
 
