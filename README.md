@@ -119,11 +119,9 @@ The **Streamlit** app provides an interactive interface to make predictions base
 1.  Navigate to the project directory.
 2.  Start the Streamlit app:
 
-    bash
-
-    Copy code
-
-    `streamlit run app.py`
+```bash
+    streamlit run app.py
+    ```
 
 3.  Open your browser and go to `http://localhost:8501`.
 
