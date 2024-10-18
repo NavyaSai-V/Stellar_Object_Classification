@@ -62,21 +62,7 @@ The following machine learning models were implemented and compared:
 📁 Project Structure
 --------------------
 
-plaintext
-
-Copy code
-
-`stellar-object-detection/
-│
-├── data/                          # Dataset and preprocessed files
-├── requirements.txt               # Required Python libraries
-├── README.md                      # Project Documentation
-├── Stellar_object_detection.ipynb # Project Notebook
-├── XGBoost.joblib                 # Model joblib file
-├── Stellar Dashboard.pbix         # PowerBI Dashboard
-├── Docs_Files/                    # Instuction and Description Documents
-├── Capstone PPT                   # Power Point Presentation of Project
-└── Stellar_classification.py      # Main Streamlit application`
+stellar-object-detection/ │ ├── data/ # Dataset and preprocessed files ├── requirements.txt # Required Python libraries ├── README.md # Project Documentation ├── Stellar_object_detection.ipynb # Project Notebook ├── XGBoost.joblib # Model joblib file ├── Stellar Dashboard.pbix # Power BI Dashboard ├── Docs_Files/ # Instruction and Description Documents ├── Capstone PPT # PowerPoint Presentation of Project └── Stellar_classification.py # Main Streamlit application
 
 * * * * *
 
