@@ -161,6 +161,9 @@ The table below compares the performance of the models:
 ---------------
 Using the Evaluation metrics for all the models I have created a Dashboard
 
+![Dashboard Image](https://github.com/user-attachments/assets/c9dca5e3-b01b-4270-9ba6-ee80a84d732c)
+
+
 📢 Future Scope
 ---------------
 
