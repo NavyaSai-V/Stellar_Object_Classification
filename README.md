@@ -51,18 +51,17 @@ The following machine learning models were implemented and compared:
 
 3.  Install **Streamlit** (if not already installed):
 
-    bash
-
     Copy code
+    
+``` bash
+pip install streamlit
 
-    `pip install streamlit`
+```
 
 * * * * *
 
 📁 Project Structure
 --------------------
-
-plaintext
 
 Copy code
 
